@@ -196,7 +196,7 @@
     - pipeline 스크립트 작성으로 빌드 명령 자동화
     - webhook을 이용한 빌드 유발 자동 배포
 - https
-    - letsencrypty 인증서 발급(i8b304.p.ssafy.io](http://i8b304.p.ssafy.io/))
+    - letsencrypty 인증서 발급(i8b304.p.*****.io](http://i8b304.p.*****.io/))
 
 # ✔ **Cooperation**
 
